@@ -1,0 +1,15 @@
+{
+    "name": "PYmili",
+    "age": 18,
+    "dict": {
+        "1": "python"    
+    },
+    "list": [
+        "hello ",
+        "world!",
+        "hello ",
+        "ClassJsonMapper!",
+        "null", "None",
+        [["hello", "", ""]]  
+    ]
+}
