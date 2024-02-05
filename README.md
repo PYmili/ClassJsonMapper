@@ -5,8 +5,8 @@
 # ClassJsonMapper
 
 [![GitHub license](https://img.shields.io/github/license/pymili/ClassJsonMapper)](LICENSE)
-[![PyPI version](https://img.shields.io/pypi/v/classjsonmapper)](https://pypi.org/project/classjsonmapper/)
-[![Documentation](https://readthedocs.org/projects/classjsonmapper/badge/?version=latest)](https://classjsonmapper.readthedocs.io/en/latest/)
+[![PyPI version](https://img.shields.io/pypi/v/ClassJsonMapper)](https://pypi.org/project/ClassJsonMapper/)
+[![Documentation](https://readthedocs.org/projects/ClassJsonMapper/badge/?version=latest)](https://ClassJsonMapper.readthedocs.io/en/latest/)
 
 **ClassJsonMapper** 是一个易于使用的Python库，旨在简化JSON数据与类对象之间的映射和转换过程。通过自定义类方法，它使得处理JSON文件变得直观、安全且高效。
 
